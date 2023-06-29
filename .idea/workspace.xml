@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36baf6cc-8e2e-413c-a2a5-e9bcac73caf4" name="Changes" comment="GestionStock">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +56,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -95,6 +98,7 @@
       <updated>1686928469231</updated>
       <workItem from="1686928471174" duration="9049000" />
       <workItem from="1687801111905" duration="3239000" />
+      <workItem from="1688044550483" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="GestionStock">
       <created>1687816057768</created>
